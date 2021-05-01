@@ -1,2 +1,2 @@
-Very simple landing page for a local business.
+Simple landing page for a local business.
 Uses google maps api.
