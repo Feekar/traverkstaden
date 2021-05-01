@@ -41,7 +41,7 @@ a:hover {
 
 @media screen and (max-width: 600px) {
   .logo {
-    margin-top: 3rem;
+    margin-top: 3rem 0.8rem;
   }
 
   #map {
