@@ -8,7 +8,7 @@ main {
   margin: 0 auto;
 }
 
-img {
+.logo {
   margin: 15vh 2rem 0 2rem;
   margin-top: 15vh;
 }
@@ -28,4 +28,20 @@ a:hover {
 .contact {
   text-align: center;
   margin-top: 3rem;
+}
+
+#map {
+  height: 25rem;
+  margin: 3rem 2rem 0 2rem;
+}
+
+@media screen and (max-width: 600px) {
+  .logo {
+    margin-top: 3rem;
+  }
+
+  #map {
+    margin: 3rem 0 0 0;
+    height: 20rem;
+  }
 }
