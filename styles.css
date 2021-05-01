@@ -41,11 +41,11 @@ a:hover {
 
 @media screen and (max-width: 600px) {
   .logo {
-    margin-top: 3rem 0.8rem;
+    margin: 3rem;
   }
 
   #map {
-    margin: 3rem 0 0 0;
+    margin: 3rem 0.8rem;
     height: 20rem;
   }
 }
