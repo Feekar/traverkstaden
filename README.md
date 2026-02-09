@@ -1,1 +1,1 @@
-Simple landing page for a local business.
+Simple landing page for a local business
